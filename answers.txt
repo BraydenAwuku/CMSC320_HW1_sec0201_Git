@@ -1,4 +1,4 @@
-HEAD
+
 Q1: Why might we consider using Git?
 
 Answer: Git makes it easy for people to experiment and go back if needed. It 
@@ -10,4 +10,9 @@ Q2: What field could data science be applied to? Give an example.
 Answer: One way data science can be applied is in e-commerce. It suggests 
 products to customers based on their previous browsing and buying 
 behavior. 
-q2
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches with a new commit that keeps their 
+history. Rebasing puts your branch on top of another branch to create a 
+new, cleaner linear history.
